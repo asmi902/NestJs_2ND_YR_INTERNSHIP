@@ -1,4 +1,3 @@
-```markdown
 # 🍺 Beers API - NestJS + MongoDB Backend
 
 A simple RESTful API built with **NestJS** and **MongoDB** for managing beers, their ingredients, and alcohol content (ABV). This project is structured with clean separation of concerns using modules, DTOs, services, and repositories — making it scalable and maintainable.
